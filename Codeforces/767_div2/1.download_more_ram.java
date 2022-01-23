@@ -74,3 +74,35 @@ public class Main
 	    
 	}
 }
+
+
+// #include<bits/stdc++.h>
+// using namespace std;
+// int main()
+// {
+// int t;
+// cin>>t;
+// while(t--)
+// {
+// int n,a;
+// cin>>n>>a;
+// vector<pair<int,int>>v(n);
+// for(int i=0;i<n;i++)
+// {
+//     cin>>v[i].first;
+// }
+// for(int i=0;i<n;i++)
+// {
+//     cin>>v[i].second;
+// }
+// sort(v.begin(),v.end());
+// int i=0;
+// while(a>=v[i].first &&i<n)
+// {
+// a+=v[i].second;
+// i++;
+// }
+// cout<<a<<endl;
+// }
+ 
+// }
